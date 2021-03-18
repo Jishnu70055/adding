@@ -1,3 +1,6 @@
 a = 5
 b = 2
-print(a+b)
+c=a+b
+d=c*10
+print(d)
+
